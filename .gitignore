@@ -1,0 +1,9 @@
+/.idea/
+/.vscode/
+/.mvn/
+target/
+**/target/
+*.log
+*.iml
+Thumbs.db
+.DS_Store
